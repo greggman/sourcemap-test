@@ -1,0 +1,1 @@
+{"version":3,"file":"test.module.js","sources":["../src/test.ts"],"sourcesContent":["\nfunction main() {\n  console.log('test');\n}\nmain();\n"],"names":["console","log"],"mappings":"AAEEA,QAAQC,IAAI"}
